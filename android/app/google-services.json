@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448635918929",
+    "project_id": "chatlagii",
+    "storage_bucket": "chatlagii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448635918929:android:74322bbf3fbf5e9ed93670",
+        "android_client_info": {
+          "package_name": "com.example.chat_app2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5z8c-1xdFtsew7G6_BBE1j-dTId4yLi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
